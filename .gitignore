@@ -1,0 +1,22 @@
+# Data files
+*.csv
+
+# IDE files
+.idea/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Large model files (too big for GitHub - download separately)
+*.keras
+*.pickle
